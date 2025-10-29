@@ -26,4 +26,4 @@ Soy un apasionado del desarrollo web.
 - 📦 **Bases de datos** → MariaDB/MySQL • PostgreSQL.  
 
 ## 📥 Contacto
-Si quieres contactarme puedes usar el formulario de mi <a href="https://alejandrobj.es/">WEB</a>
+Si quieres contactarme puedes usar el formulario de mi <a href="https://theealex11.github.io/">WEB</a>
