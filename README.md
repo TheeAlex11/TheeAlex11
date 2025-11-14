@@ -1,5 +1,8 @@
-# 👋 Hola, soy Alejandro.
-Soy un apasionado del desarrollo web.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+a+todos!;&center=true&size=30">
+  </a>
+</h1>
 
 ## 🚀 Tecnologías y herramientas
 <div>
@@ -17,6 +20,9 @@ Soy un apasionado del desarrollo web.
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+<br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/658625459260751874)](https://discord.com/users/658625459260751874)
 
 - 🎮 **Lua** → Desarrollo para Scripts de **[FiveM](https://fivem.net/)**.  
 - 🌐 **Frontend** →  React • Angular • HTML5 • CSS3 • JavaScript • TypeScript.  
@@ -26,4 +32,4 @@ Soy un apasionado del desarrollo web.
 - 📦 **Bases de datos** → MariaDB/MySQL • PostgreSQL.  
 
 ## 📥 Contacto
-Si quieres contactarme puedes usar el formulario de mi <a href="https://alejandrobj.es/">WEB</a>
+Si quieres contactarme puedes usar el formulario de mi <a href="https://theealex11.github.io/">WEB</a>
